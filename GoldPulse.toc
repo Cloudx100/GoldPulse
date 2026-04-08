@@ -1,0 +1,12 @@
+## Interface: 120001
+## Title: GoldPulse
+## Notes: Tracks your Auction House income and expenses
+## Author: You
+## Version: 0.1.0
+## SavedVariables: GoldPulseDB
+## IconTexture: Interface\Icons\INV_Misc_Coin_01
+
+Core.lua
+Tracker.lua
+UI.lua
+Minimap.lua
